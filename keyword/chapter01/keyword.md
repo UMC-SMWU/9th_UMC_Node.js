@@ -199,7 +199,3 @@ public class Attach {
 **2ͦ.** 통계성 프로세스에 의해 통계 정보를 별도로 필요로 하는 경우
 
 **3ͦ.** 테이블이 지나치게 많은 조인이 걸려 조회가 어려운 경우
-
-## 💥 미션 💥
-
-[미션 ERD](https://www.erdcloud.com/d/rCyDcA6nvoeMHFe7M)
